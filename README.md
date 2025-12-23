@@ -13,7 +13,7 @@ and internal network services.
 ## Report
 
 The complete assessment report is available here:
- **[Open Full Penetration Test Report](report/Rekall-Penetration-Test-Report.pdf)**
+ **[Open Full Penetration Test Report](report/Rekall-Penetration-Test-Report.pdfpdf)**
 
 ## Screenshots
 
