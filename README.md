@@ -59,5 +59,14 @@ can be found here:
 
 ---
 
-**All testing was conducted for educational and training purposes only.**
+## Scope & Environment
+
+As part of approved cybersecurity training, this penetration test was carried out in a controlled laboratory setting.
+
+- Simulated corporate network
+- Linux and Windows hosts
+- Intentionally vulnerable web applications
+- No production systems were involved
+
+
 
